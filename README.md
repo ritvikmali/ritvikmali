@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritvikmali
-- 👀 I’m interested in Cyber Security and Software Development
+- 👀 I’m interested in Cyber Security, Software Development and Web development 
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me Mail - ritvikmali2@gmail.com
 
