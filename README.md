@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritvikmali
-- 👀 I’m interested in Cyber Security, Software Development and Web development 
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in REST APIs ,web development and Dev Ops
+- 🌱 I’m Computer Science Graduate
 - 📫 How to reach me Mail - ritvikmali2@gmail.com
 
 <!---
