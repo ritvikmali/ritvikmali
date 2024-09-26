@@ -2,6 +2,7 @@
 - 👀 I’m interested in REST APIs ,web development and Dev Ops
 - 🌱 I’m Computer Science Graduate
 - 📫 How to reach me Mail - ritvikmali2@gmail.com
+- ✨ My other Half - https://github.com/NutroUzumaki
 
 <!---
 ritvikmali/ritvikmali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
